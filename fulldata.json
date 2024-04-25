@@ -1,0 +1,9 @@
+[{
+  "id" : "unique-uuid",
+  "title" : "This is a new event",
+  "image" : "https://placehold.co/1200x960",
+  "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "ownerId" : "unique-owner-id",
+  "date" : "2023-05-19 08:00:00 +0000"
+  "participants" : ["unique-owner-id-1", "unique-owner-id-2", "unique-owner-id-3", "unique-owner-id-4", "unique-owner-id-5", "unique-owner-id-6"]
+}]
