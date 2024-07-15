@@ -1,0 +1,207 @@
+{
+  "flights": [
+    {
+      "total_cost": 450,
+      "discount_cost": 400,
+      "to_destination": {
+        "airline_name": "AirSample",
+        "abbr_airport": "JFK",
+        "departing_time": "2024-07-16T08:00:00",
+        "stops": "direct",
+        "total_time": "6h 00m",
+        "arrival_time": "2024-07-16T14:00:00",
+        "notes": "Economy class"
+      },
+      "going_back": {
+        "airline_name": "AirSample",
+        "abbr_airport": "LAX",
+        "departing_time": "2024-07-23T15:00:00",
+        "stops": "direct",
+        "total_time": "6h 00m",
+        "arrival_time": "2024-07-23T21:00:00",
+        "notes": "Economy class"
+      }
+    },
+    {
+      "total_cost": 550,
+      "discount_cost": 500,
+      "to_destination": {
+        "airline_name": "FlyNow",
+        "abbr_airport": "BOS",
+        "departing_time": "2024-07-16T10:00:00",
+        "stops": "1",
+        "total_time": "8h 00m",
+        "arrival_time": "2024-07-16T18:00:00",
+        "notes": "1 stop in ORD"
+      },
+      "going_back": {
+        "airline_name": "FlyNow",
+        "abbr_airport": "SFO",
+        "departing_time": "2024-07-23T17:00:00",
+        "stops": "1",
+        "total_time": "8h 00m",
+        "arrival_time": "2024-07-23T01:00:00",
+        "notes": "1 stop in DEN"
+      }
+    },
+    {
+      "total_cost": 600,
+      "discount_cost": 550,
+      "to_destination": {
+        "airline_name": "JetSpeed",
+        "abbr_airport": "ATL",
+        "departing_time": "2024-07-16T12:00:00",
+        "stops": "2",
+        "total_time": "10h 00m",
+        "arrival_time": "2024-07-16T22:00:00",
+        "notes": "2 stops in DFW, PHX"
+      },
+      "going_back": {
+        "airline_name": "JetSpeed",
+        "abbr_airport": "MIA",
+        "departing_time": "2024-07-23T09:00:00",
+        "stops": "2",
+        "total_time": "10h 00m",
+        "arrival_time": "2024-07-23T19:00:00",
+        "notes": "2 stops in IAH, LAS"
+      }
+    },
+    {
+      "total_cost": 700,
+      "discount_cost": 650,
+      "to_destination": {
+        "airline_name": "SkyHigh",
+        "abbr_airport": "ORD",
+        "departing_time": "2024-07-16T07:00:00",
+        "stops": "direct",
+        "total_time": "7h 00m",
+        "arrival_time": "2024-07-16T14:00:00",
+        "notes": "Business class"
+      },
+      "going_back": {
+        "airline_name": "SkyHigh",
+        "abbr_airport": "SEA",
+        "departing_time": "2024-07-23T13:00:00",
+        "stops": "direct",
+        "total_time": "7h 00m",
+        "arrival_time": "2024-07-23T20:00:00",
+        "notes": "Business class"
+      }
+    },
+    {
+      "total_cost": 480,
+      "discount_cost": 430,
+      "to_destination": {
+        "airline_name": "AirExpress",
+        "abbr_airport": "DEN",
+        "departing_time": "2024-07-16T11:00:00",
+        "stops": "1",
+        "total_time": "9h 00m",
+        "arrival_time": "2024-07-16T20:00:00",
+        "notes": "1 stop in ORD"
+      },
+      "going_back": {
+        "airline_name": "AirExpress",
+        "abbr_airport": "LAS",
+        "departing_time": "2024-07-23T12:00:00",
+        "stops": "1",
+        "total_time": "9h 00m",
+        "arrival_time": "2024-07-23T21:00:00",
+        "notes": "1 stop in PHX"
+      }
+    },
+    {
+      "total_cost": 510,
+      "discount_cost": 460,
+      "to_destination": {
+        "airline_name": "QuickAir",
+        "abbr_airport": "PHX",
+        "departing_time": "2024-07-16T06:00:00",
+        "stops": "direct",
+        "total_time": "5h 30m",
+        "arrival_time": "2024-07-16T11:30:00",
+        "notes": "Economy class"
+      },
+      "going_back": {
+        "airline_name": "QuickAir",
+        "abbr_airport": "SJC",
+        "departing_time": "2024-07-23T14:00:00",
+        "stops": "direct",
+        "total_time": "5h 30m",
+        "arrival_time": "2024-07-23T19:30:00",
+        "notes": "Economy class"
+      }
+    },
+    {
+      "total_cost": 530,
+      "discount_cost": 480,
+      "to_destination": {
+        "airline_name": "FlyFast",
+        "abbr_airport": "MCO",
+        "departing_time": "2024-07-16T09:00:00",
+        "stops": "1",
+        "total_time": "8h 30m",
+        "arrival_time": "2024-07-16T17:30:00",
+        "notes": "1 stop in DFW"
+      },
+      "going_back": {
+        "airline_name": "FlyFast",
+        "abbr_airport": "AUS",
+        "departing_time": "2024-07-23T18:00:00",
+        "stops": "1",
+        "total_time": "8h 30m",
+        "arrival_time": "2024-07-24T02:30:00",
+        "notes": "1 stop in IAH"
+      }
+    },
+    {
+      "total_cost": 620,
+      "discount_cost": 570,
+      "to_destination": {
+        "airline_name": "SkyWings",
+        "abbr_airport": "CLT",
+        "departing_time": "2024-07-16T13:00:00",
+        "stops": "2",
+        "total_time": "10h 30m",
+        "arrival_time": "2024-07-16T23:30:00",
+        "notes": "2 stops in ATL, ORD"
+      },
+      "going_back": {
+        "airline_name": "SkyWings",
+        "abbr_airport": "PDX",
+        "departing_time": "2024-07-23T08:00:00",
+        "stops": "2",
+        "total_time": "10h 30m",
+        "arrival_time": "2024-07-23T18:30:00",
+        "notes": "2 stops in DEN, LAX"
+      }
+    },
+    {
+      "total_cost": 480,
+      "discount_cost": 430,
+      "to_destination": {
+        "airline_name": "QuickJet",
+        "abbr_airport": "IAH",
+        "departing_time": "2024-07-16T14:00:00",
+        "stops": "1",
+        "total_time": "9h 30m",
+        "arrival_time": "2024-07-16T23:30:00",
+        "notes": "1 stop in ATL"
+      },
+      "going_back": {
+        "airline_name": "QuickJet",
+        "abbr_airport": "SAN",
+        "departing_time": "2024-07-23T16:00:00",
+        "stops": "1",
+        "total_time": "9h 30m",
+        "arrival_time": "2024-07-24T01:30:00",
+        "notes": "1 stop in PHX"
+      }
+    },
+    {
+      "total_cost": 490,
+      "discount_cost": 440,
+      "to_destination": {
+        "airline_name": "AirConnect",
+        "abbr_airport": "MSP",
+        "departing_time": "2024
