@@ -1,139 +1,152 @@
-{
-  "airports": {
-    "United States": [
-      {
-        "ABBR": "JFK",
-        "fullname": "John F. Kennedy International Airport",
-        "city": "New York"
-      },
-      {
-        "ABBR": "LAX",
-        "fullname": "Los Angeles International Airport",
-        "city": "Los Angeles"
-      },
-      {
-        "ABBR": "ORD",
-        "fullname": "O'Hare International Airport",
-        "city": "Chicago"
-      },
-      {
-        "ABBR": "DFW",
-        "fullname": "Dallas/Fort Worth International Airport",
-        "city": "Dallas"
-      },
-      {
-        "ABBR": "MIA",
-        "fullname": "Miami International Airport",
-        "city": "Miami"
-      }
-    ],
-    "United Kingdom": [
-      {
-        "ABBR": "LHR",
-        "fullname": "Heathrow Airport",
-        "city": "London"
-      },
-      {
-        "ABBR": "LGW",
-        "fullname": "Gatwick Airport",
-        "city": "London"
-      },
-      {
-        "ABBR": "MAN",
-        "fullname": "Manchester Airport",
-        "city": "Manchester"
-      },
-      {
-        "ABBR": "EDI",
-        "fullname": "Edinburgh Airport",
-        "city": "Edinburgh"
-      },
-      {
-        "ABBR": "BHX",
-        "fullname": "Birmingham Airport",
-        "city": "Birmingham"
-      }
-    ],
-    "France": [
-      {
-        "ABBR": "CDG",
-        "fullname": "Charles de Gaulle Airport",
-        "city": "Paris"
-      },
-      {
-        "ABBR": "ORY",
-        "fullname": "Orly Airport",
-        "city": "Paris"
-      },
-      {
-        "ABBR": "NCE",
-        "fullname": "Nice Côte d'Azur Airport",
-        "city": "Nice"
-      },
-      {
-        "ABBR": "LYS",
-        "fullname": "Lyon-Saint Exupéry Airport",
-        "city": "Lyon"
-      },
-      {
-        "ABBR": "MRS",
-        "fullname": "Marseille Provence Airport",
-        "city": "Marseille"
-      }
-    ],
-    "Germany": [
-      {
-        "ABBR": "FRA",
-        "fullname": "Frankfurt Airport",
-        "city": "Frankfurt"
-      },
-      {
-        "ABBR": "MUC",
-        "fullname": "Munich Airport",
-        "city": "Munich"
-      },
-      {
-        "ABBR": "TXL",
-        "fullname": "Berlin Tegel Airport",
-        "city": "Berlin"
-      },
-      {
-        "ABBR": "DUS",
-        "fullname": "Düsseldorf Airport",
-        "city": "Düsseldorf"
-      },
-      {
-        "ABBR": "HAM",
-        "fullname": "Hamburg Airport",
-        "city": "Hamburg"
-      }
-    ],
-    "Japan": [
-      {
-        "ABBR": "HND",
-        "fullname": "Haneda Airport",
-        "city": "Tokyo"
-      },
-      {
-        "ABBR": "NRT",
-        "fullname": "Narita International Airport",
-        "city": "Tokyo"
-      },
-      {
-        "ABBR": "KIX",
-        "fullname": "Kansai International Airport",
-        "city": "Osaka"
-      },
-      {
-        "ABBR": "CTS",
-        "fullname": "New Chitose Airport",
-        "city": "Sapporo"
-      },
-      {
-        "ABBR": "ITM",
-        "fullname": "Osaka International Airport",
-        "city": "Osaka"
-      }
-    ]
+[
+  {
+    "abbr": "CDG",
+    "fullname": "Charles de Gaulle Airport",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "abbr": "ORY",
+    "fullname": "Orly Airport",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "abbr": "LHR",
+    "fullname": "London Heathrow Airport",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "abbr": "LGW",
+    "fullname": "London Gatwick Airport",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "abbr": "FCO",
+    "fullname": "Leonardo da Vinci International Airport",
+    "city": "Rome",
+    "country": "Italy"
+  },
+  {
+    "abbr": "MAD",
+    "fullname": "Adolfo Suárez Madrid–Barajas Airport",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "abbr": "BCN",
+    "fullname": "Barcelona–El Prat Airport",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "abbr": "AMS",
+    "fullname": "Amsterdam Airport Schiphol",
+    "city": "Amsterdam",
+    "country": "Netherlands"
+  },
+  {
+    "abbr": "CDT",
+    "fullname": "Charles de Gaulle Airport",
+    "city": "Toulouse",
+    "country": "France"
+  },
+  {
+    "abbr": "ZRH",
+    "fullname": "Zurich Airport",
+    "city": "Zurich",
+    "country": "Switzerland"
+  },
+  {
+    "abbr": "TXL",
+    "fullname": "Berlin Tegel Airport",
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
+    "abbr": "FRA",
+    "fullname": "Frankfurt Airport",
+    "city": "Frankfurt",
+    "country": "Germany"
+  },
+  {
+    "abbr": "MUC",
+    "fullname": "Munich Airport",
+    "city": "Munich",
+    "country": "Germany"
+  },
+  {
+    "abbr": "VIE",
+    "fullname": "Vienna International Airport",
+    "city": "Vienna",
+    "country": "Austria"
+  },
+  {
+    "abbr": "PRG",
+    "fullname": "Václav Havel Airport Prague",
+    "city": "Prague",
+    "country": "Czech Republic"
+  },
+  {
+    "abbr": "ATH",
+    "fullname": "Athens International Airport",
+    "city": "Athens",
+    "country": "Greece"
+  },
+  {
+    "abbr": "IST",
+    "fullname": "Istanbul Airport",
+    "city": "Istanbul",
+    "country": "Turkey"
+  },
+  {
+    "abbr": "HEL",
+    "fullname": "Helsinki-Vantaa Airport",
+    "city": "Helsinki",
+    "country": "Finland"
+  },
+  {
+    "abbr": "CPH",
+    "fullname": "Copenhagen Airport",
+    "city": "Copenhagen",
+    "country": "Denmark"
+  },
+  {
+    "abbr": "ARN",
+    "fullname": "Stockholm Arlanda Airport",
+    "city": "Stockholm",
+    "country": "Sweden"
+  },
+  {
+    "abbr": "OSL",
+    "fullname": "Oslo Airport, Gardermoen",
+    "city": "Oslo",
+    "country": "Norway"
+  },
+  {
+    "abbr": "BUD",
+    "fullname": "Budapest Ferenc Liszt International Airport",
+    "city": "Budapest",
+    "country": "Hungary"
+  },
+  {
+    "abbr": "LIS",
+    "fullname": "Lisbon Airport",
+    "city": "Lisbon",
+    "country": "Portugal"
+  },
+  {
+    "abbr": "WAW",
+    "fullname": "Warsaw Chopin Airport",
+    "city": "Warsaw",
+    "country": "Poland"
+  },
+  {
+    "abbr": "DUB",
+    "fullname": "Dublin Airport",
+    "city": "Dublin",
+    "country": "Ireland"
   }
-}
+]
