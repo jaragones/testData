@@ -1,0 +1,37 @@
+{
+  "countries": [
+    {
+      "country": "United Kingdom",
+      "airports": [
+        {
+          "ABBR": "LHR",
+          "fullname": "Heathrow Airport",
+          "city": "London"
+        },
+        {
+          "ABBR": "LGW",
+          "fullname": "Gatwick Airport",
+          "city": "London"
+        },
+        // ... (3 more airports)
+      ]
+    },
+    {
+      "country": "France",
+      "airports": [
+        {
+          "ABBR": "CDG",
+          "fullname": "Charles de Gaulle Airport",
+          "city": "Paris"
+        },
+        {
+          "ABBR": "ORY",
+          "fullname": "Orly Airport",
+          "city": "Paris"
+        },
+        // ... (3 more airports)
+      ]
+    },
+    // ... (3 more countries)
+  ]
+}
