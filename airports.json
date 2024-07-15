@@ -1,37 +1,139 @@
 {
-  "countries": [
-    {
-      "country": "United Kingdom",
-      "airports": [
-        {
-          "ABBR": "LHR",
-          "fullname": "Heathrow Airport",
-          "city": "London"
-        },
-        {
-          "ABBR": "LGW",
-          "fullname": "Gatwick Airport",
-          "city": "London"
-        },
-        // ... (3 more airports)
-      ]
-    },
-    {
-      "country": "France",
-      "airports": [
-        {
-          "ABBR": "CDG",
-          "fullname": "Charles de Gaulle Airport",
-          "city": "Paris"
-        },
-        {
-          "ABBR": "ORY",
-          "fullname": "Orly Airport",
-          "city": "Paris"
-        },
-        // ... (3 more airports)
-      ]
-    },
-    // ... (3 more countries)
-  ]
+  "airports": {
+    "United States": [
+      {
+        "ABBR": "JFK",
+        "fullname": "John F. Kennedy International Airport",
+        "city": "New York"
+      },
+      {
+        "ABBR": "LAX",
+        "fullname": "Los Angeles International Airport",
+        "city": "Los Angeles"
+      },
+      {
+        "ABBR": "ORD",
+        "fullname": "O'Hare International Airport",
+        "city": "Chicago"
+      },
+      {
+        "ABBR": "DFW",
+        "fullname": "Dallas/Fort Worth International Airport",
+        "city": "Dallas"
+      },
+      {
+        "ABBR": "MIA",
+        "fullname": "Miami International Airport",
+        "city": "Miami"
+      }
+    ],
+    "United Kingdom": [
+      {
+        "ABBR": "LHR",
+        "fullname": "Heathrow Airport",
+        "city": "London"
+      },
+      {
+        "ABBR": "LGW",
+        "fullname": "Gatwick Airport",
+        "city": "London"
+      },
+      {
+        "ABBR": "MAN",
+        "fullname": "Manchester Airport",
+        "city": "Manchester"
+      },
+      {
+        "ABBR": "EDI",
+        "fullname": "Edinburgh Airport",
+        "city": "Edinburgh"
+      },
+      {
+        "ABBR": "BHX",
+        "fullname": "Birmingham Airport",
+        "city": "Birmingham"
+      }
+    ],
+    "France": [
+      {
+        "ABBR": "CDG",
+        "fullname": "Charles de Gaulle Airport",
+        "city": "Paris"
+      },
+      {
+        "ABBR": "ORY",
+        "fullname": "Orly Airport",
+        "city": "Paris"
+      },
+      {
+        "ABBR": "NCE",
+        "fullname": "Nice Côte d'Azur Airport",
+        "city": "Nice"
+      },
+      {
+        "ABBR": "LYS",
+        "fullname": "Lyon-Saint Exupéry Airport",
+        "city": "Lyon"
+      },
+      {
+        "ABBR": "MRS",
+        "fullname": "Marseille Provence Airport",
+        "city": "Marseille"
+      }
+    ],
+    "Germany": [
+      {
+        "ABBR": "FRA",
+        "fullname": "Frankfurt Airport",
+        "city": "Frankfurt"
+      },
+      {
+        "ABBR": "MUC",
+        "fullname": "Munich Airport",
+        "city": "Munich"
+      },
+      {
+        "ABBR": "TXL",
+        "fullname": "Berlin Tegel Airport",
+        "city": "Berlin"
+      },
+      {
+        "ABBR": "DUS",
+        "fullname": "Düsseldorf Airport",
+        "city": "Düsseldorf"
+      },
+      {
+        "ABBR": "HAM",
+        "fullname": "Hamburg Airport",
+        "city": "Hamburg"
+      }
+    ],
+    "Japan": [
+      {
+        "ABBR": "HND",
+        "fullname": "Haneda Airport",
+        "city": "Tokyo"
+      },
+      {
+        "ABBR": "NRT",
+        "fullname": "Narita International Airport",
+        "city": "Tokyo"
+      },
+      {
+        "ABBR": "KIX",
+        "fullname": "Kansai International Airport",
+        "city": "Osaka"
+      },
+      {
+        "ABBR": "CTS",
+        "fullname": "New Chitose Airport",
+        "city": "Sapporo"
+      },
+      {
+        "ABBR": "ITM",
+        "fullname": "Osaka International Airport",
+        "city": "Osaka"
+      }
+    ]
+  }
 }
